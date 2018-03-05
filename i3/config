@@ -165,3 +165,27 @@ bindsym XF86MonBrightnessDown exec xbacklight -10
 bindsym XF86AudioMute exec pactl set-sink-mute 0 toggle
 bindsym XF86AudioLowerVolume exec "pactl set-sink-mute 0 false && pactl set-sink-volume 0 -5%"
 bindsym XF86AudioRaiseVolume exec "pactl set-sink-mute 0 false && pactl set-sink-volume 0 +5%"
+
+# Colors 
+set $bg     #2c222f  
+            #Dark Purple
+set $ac     #6c5475
+            #Lavendarish
+set $tx     #2d323d
+            #Grayish
+set $ia     #9e9e9e
+            #Silverish
+set $id     #f9f8ff
+            #Creamish
+
+#indicator is the color used for indicating where a new window will be opened.
+# child border are the thin lines around the titlebar.
+
+# set some colors           border  background  text    indicator  child_border
+
+client.focused              $ac     $ac         $tx     $id
+client.unfocused            $bg     $bg         $ia     $id
+client.focused_inactive     $bg     $bg         $ac     $id
+client.urgent               $ac     $ac         $tx     $id
+#border & indicator are ignored
+client.placeholder          $bg     $bg         $bg     $bg
