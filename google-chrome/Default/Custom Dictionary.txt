@@ -1,3 +1,0 @@
-Yaaaaay
-Yay
-checksum_v1 = 78227cdc2e0ad4415005688f9d33260a
