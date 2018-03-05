@@ -1,0 +1,187 @@
+[18:55:22] Initializing LaTeX Workshop.
+[18:55:22] Creating LaTeX Workshop http and websocket server.
+[18:55:22] LaTeX Workshop initialized.
+[18:55:22] Found root file from active editor: /home/turab/Assignments/401/hw7/hw7.tex
+[18:55:22] Root file changed from: undefined. Find all dependencies.
+[18:55:22] Instatiating new file watcher for /home/turab/Assignments/401/hw7/hw7.tex
+[18:55:22] Parsing /home/turab/Assignments/401/hw7/hw7.tex
+[18:55:22] Server created on 127.0.0.1:33391
+[18:55:22] Default environments loaded
+[18:55:22] LaTeX Workshop version: 3.14.0
+[18:55:22] Default commands loaded
+[18:55:22] Default unimathsymbols loaded
+[18:56:14] Root file remains unchanged from: /home/turab/Assignments/401/hw7/hw7.tex.
+[18:56:24] Found root file from active editor: /home/turab/Assignments/401/hw7/hw7.tex
+[18:56:24] Root file remains unchanged from: /home/turab/Assignments/401/hw7/hw7.tex.
+[18:56:43] Root file remains unchanged from: /home/turab/Assignments/401/hw7/hw7.tex.
+[18:57:31] Found root file from active editor: Untitled-1
+[18:57:31] Root file changed from: /home/turab/Assignments/401/hw7/hw7.tex. Find all dependencies.
+[18:57:31] Root file changed -> cleaning up old file watcher.
+[18:57:31] Instatiating new file watcher for Untitled-1
+[18:57:31] Parsing Untitled-1
+[18:57:31] BUILD command invoked.
+[18:57:31] Parsing Untitled-1 for outline
+[18:57:31] Found root file from active editor: /home/turab/Assignments/401/hw8/hw8.tex
+[18:57:31] Root file changed from: Untitled-1. Find all dependencies.
+[18:57:31] Root file changed -> cleaning up old file watcher.
+[18:57:31] Instatiating new file watcher for /home/turab/Assignments/401/hw8/hw8.tex
+[18:57:31] Parsing /home/turab/Assignments/401/hw8/hw8.tex
+[19:03:54] Parsing /home/turab/Assignments/401/hw8/hw8.tex for outline
+[19:03:54] Found root file from active editor: /home/turab/Assignments/401/hw7/hw7.tex
+[19:03:54] Root file changed from: /home/turab/Assignments/401/hw8/hw8.tex. Find all dependencies.
+[19:03:54] Root file changed -> cleaning up old file watcher.
+[19:03:54] Instatiating new file watcher for /home/turab/Assignments/401/hw7/hw7.tex
+[19:03:54] Parsing /home/turab/Assignments/401/hw7/hw7.tex
+[19:03:55] Found root file from active editor: /home/turab/Assignments/401/hw8/hw8.tex
+[19:03:55] Root file changed from: /home/turab/Assignments/401/hw7/hw7.tex. Find all dependencies.
+[19:03:55] Root file changed -> cleaning up old file watcher.
+[19:03:55] Instatiating new file watcher for /home/turab/Assignments/401/hw8/hw8.tex
+[19:03:55] Parsing /home/turab/Assignments/401/hw8/hw8.tex
+[19:21:34] File watcher: responding to change in /home/turab/Assignments/401/hw8/hw8.tex
+[19:21:34] Parsing /home/turab/Assignments/401/hw8/hw8.tex
+[19:21:34] BUILD command invoked.
+[19:21:34] Found root file from active editor: /home/turab/Assignments/401/hw8/hw8.tex
+[19:21:34] Root file remains unchanged from: /home/turab/Assignments/401/hw8/hw8.tex.
+[19:21:34] Building root file: /home/turab/Assignments/401/hw8/hw8.tex
+[19:21:34] Build root file /home/turab/Assignments/401/hw8/hw8.tex
+[19:21:34] Toolchain step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/turab/Assignments/401/hw8/hw8
+[19:21:34] Parsing /home/turab/Assignments/401/hw8/hw8.tex for outline
+[19:21:35] LaTeX log parsed with 0 messages.
+[19:21:35] Toolchain of length 1 finished.
+[19:21:35] Successfully built /home/turab/Assignments/401/hw8/hw8.tex
+[19:21:35] No PDF viewer connected for /home/turab/Assignments/401/hw8/hw8.pdf
+[19:23:58] File watcher: responding to change in /home/turab/Assignments/401/hw8/hw8.tex
+[19:23:58] Parsing /home/turab/Assignments/401/hw8/hw8.tex
+[19:23:58] BUILD command invoked.
+[19:23:58] Found root file from active editor: /home/turab/Assignments/401/hw8/hw8.tex
+[19:23:58] Root file remains unchanged from: /home/turab/Assignments/401/hw8/hw8.tex.
+[19:23:58] Building root file: /home/turab/Assignments/401/hw8/hw8.tex
+[19:23:58] Build root file /home/turab/Assignments/401/hw8/hw8.tex
+[19:23:58] Toolchain step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/turab/Assignments/401/hw8/hw8
+[19:23:58] Parsing /home/turab/Assignments/401/hw8/hw8.tex for outline
+[19:23:59] LaTeX log parsed with 1 messages.
+[19:23:59] Toolchain of length 1 finished.
+[19:23:59] Successfully built /home/turab/Assignments/401/hw8/hw8.tex
+[19:23:59] No PDF viewer connected for /home/turab/Assignments/401/hw8/hw8.pdf
+[19:24:15] ACTIONS command invoked.
+[19:24:17] TAB command invoked.
+[19:24:17] Found root file from active editor: /home/turab/Assignments/401/hw8/hw8.tex
+[19:24:17] Root file remains unchanged from: /home/turab/Assignments/401/hw8/hw8.tex.
+[19:24:17] No PDF viewer connected for /home/turab/Assignments/401/hw8/hw8.pdf
+[19:24:17] Serving PDF file at http://127.0.0.1:33391/viewer.html?file=/pdf:%2Fhome%2Fturab%2FAssignments%2F401%2Fhw8%2Fhw8.pdf
+[19:24:17] Open PDF tab for /home/turab/Assignments/401/hw8/hw8.pdf
+[19:24:18] Preview PDF file: /home/turab/Assignments/401/hw8/hw8.pdf
+[19:24:40] Found root file from active editor: /home/turab/Assignments/401/hw8/hw8.tex
+[19:24:40] Root file remains unchanged from: /home/turab/Assignments/401/hw8/hw8.tex.
+[19:24:48] File watcher: responding to change in /home/turab/Assignments/401/hw8/hw8.tex
+[19:24:48] Parsing /home/turab/Assignments/401/hw8/hw8.tex
+[19:24:48] BUILD command invoked.
+[19:24:48] Found root file from active editor: /home/turab/Assignments/401/hw8/hw8.tex
+[19:24:48] Root file remains unchanged from: /home/turab/Assignments/401/hw8/hw8.tex.
+[19:24:48] Building root file: /home/turab/Assignments/401/hw8/hw8.tex
+[19:24:49] Build root file /home/turab/Assignments/401/hw8/hw8.tex
+[19:24:49] Toolchain step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/turab/Assignments/401/hw8/hw8
+[19:24:49] Parsing /home/turab/Assignments/401/hw8/hw8.tex for outline
+[19:24:49] LaTeX log parsed with 0 messages.
+[19:24:49] Toolchain of length 1 finished.
+[19:24:49] Successfully built /home/turab/Assignments/401/hw8/hw8.tex
+[19:24:49] Refresh PDF viewer for /home/turab/Assignments/401/hw8/hw8.pdf
+[19:24:49] Preview PDF file: /home/turab/Assignments/401/hw8/hw8.pdf
+[19:25:40] File watcher: responding to change in /home/turab/Assignments/401/hw8/hw8.tex
+[19:25:40] Parsing /home/turab/Assignments/401/hw8/hw8.tex
+[19:25:40] BUILD command invoked.
+[19:25:40] Found root file from active editor: /home/turab/Assignments/401/hw8/hw8.tex
+[19:25:40] Root file remains unchanged from: /home/turab/Assignments/401/hw8/hw8.tex.
+[19:25:40] Building root file: /home/turab/Assignments/401/hw8/hw8.tex
+[19:25:40] Build root file /home/turab/Assignments/401/hw8/hw8.tex
+[19:25:40] Toolchain step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/turab/Assignments/401/hw8/hw8
+[19:25:40] Parsing /home/turab/Assignments/401/hw8/hw8.tex for outline
+[19:25:40] LaTeX log parsed with 0 messages.
+[19:25:40] Toolchain of length 1 finished.
+[19:25:40] Successfully built /home/turab/Assignments/401/hw8/hw8.tex
+[19:25:40] Refresh PDF viewer for /home/turab/Assignments/401/hw8/hw8.pdf
+[19:25:40] Preview PDF file: /home/turab/Assignments/401/hw8/hw8.pdf
+[19:26:57] File watcher: responding to change in /home/turab/Assignments/401/hw8/hw8.tex
+[19:26:57] Parsing /home/turab/Assignments/401/hw8/hw8.tex
+[19:26:57] BUILD command invoked.
+[19:26:57] Found root file from active editor: /home/turab/Assignments/401/hw8/hw8.tex
+[19:26:57] Root file remains unchanged from: /home/turab/Assignments/401/hw8/hw8.tex.
+[19:26:57] Building root file: /home/turab/Assignments/401/hw8/hw8.tex
+[19:26:57] Build root file /home/turab/Assignments/401/hw8/hw8.tex
+[19:26:57] Toolchain step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/turab/Assignments/401/hw8/hw8
+[19:26:57] Parsing /home/turab/Assignments/401/hw8/hw8.tex for outline
+[19:26:58] LaTeX log parsed with 0 messages.
+[19:26:58] Toolchain of length 1 finished.
+[19:26:58] Successfully built /home/turab/Assignments/401/hw8/hw8.tex
+[19:26:58] Refresh PDF viewer for /home/turab/Assignments/401/hw8/hw8.pdf
+[19:26:58] Preview PDF file: /home/turab/Assignments/401/hw8/hw8.pdf
+[19:27:04] File watcher: responding to change in /home/turab/Assignments/401/hw8/hw8.tex
+[19:27:04] Parsing /home/turab/Assignments/401/hw8/hw8.tex
+[19:27:04] BUILD command invoked.
+[19:27:04] Found root file from active editor: /home/turab/Assignments/401/hw8/hw8.tex
+[19:27:04] Root file remains unchanged from: /home/turab/Assignments/401/hw8/hw8.tex.
+[19:27:04] Building root file: /home/turab/Assignments/401/hw8/hw8.tex
+[19:27:04] Build root file /home/turab/Assignments/401/hw8/hw8.tex
+[19:27:04] Toolchain step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/turab/Assignments/401/hw8/hw8
+[19:27:04] Parsing /home/turab/Assignments/401/hw8/hw8.tex for outline
+[19:27:04] LaTeX log parsed with 0 messages.
+[19:27:04] Toolchain of length 1 finished.
+[19:27:04] Successfully built /home/turab/Assignments/401/hw8/hw8.tex
+[19:27:04] Refresh PDF viewer for /home/turab/Assignments/401/hw8/hw8.pdf
+[19:27:05] Preview PDF file: /home/turab/Assignments/401/hw8/hw8.pdf
+[19:27:34] File watcher: responding to change in /home/turab/Assignments/401/hw8/hw8.tex
+[19:27:34] Parsing /home/turab/Assignments/401/hw8/hw8.tex
+[19:27:34] BUILD command invoked.
+[19:27:34] Found root file from active editor: /home/turab/Assignments/401/hw8/hw8.tex
+[19:27:34] Root file remains unchanged from: /home/turab/Assignments/401/hw8/hw8.tex.
+[19:27:34] Building root file: /home/turab/Assignments/401/hw8/hw8.tex
+[19:27:34] Build root file /home/turab/Assignments/401/hw8/hw8.tex
+[19:27:34] Toolchain step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/turab/Assignments/401/hw8/hw8
+[19:27:34] Parsing /home/turab/Assignments/401/hw8/hw8.tex for outline
+[19:27:34] LaTeX log parsed with 0 messages.
+[19:27:34] Toolchain of length 1 finished.
+[19:27:34] Successfully built /home/turab/Assignments/401/hw8/hw8.tex
+[19:27:34] Refresh PDF viewer for /home/turab/Assignments/401/hw8/hw8.pdf
+[19:27:35] Preview PDF file: /home/turab/Assignments/401/hw8/hw8.pdf
+[19:28:18] File watcher: responding to change in /home/turab/Assignments/401/hw8/hw8.tex
+[19:28:18] Parsing /home/turab/Assignments/401/hw8/hw8.tex
+[19:28:18] BUILD command invoked.
+[19:28:18] Found root file from active editor: /home/turab/Assignments/401/hw8/hw8.tex
+[19:28:18] Root file remains unchanged from: /home/turab/Assignments/401/hw8/hw8.tex.
+[19:28:18] Building root file: /home/turab/Assignments/401/hw8/hw8.tex
+[19:28:18] Build root file /home/turab/Assignments/401/hw8/hw8.tex
+[19:28:18] Toolchain step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/turab/Assignments/401/hw8/hw8
+[19:28:18] Parsing /home/turab/Assignments/401/hw8/hw8.tex for outline
+[19:28:18] LaTeX log parsed with 0 messages.
+[19:28:18] Toolchain of length 1 finished.
+[19:28:18] Successfully built /home/turab/Assignments/401/hw8/hw8.tex
+[19:28:18] Refresh PDF viewer for /home/turab/Assignments/401/hw8/hw8.pdf
+[19:28:18] Preview PDF file: /home/turab/Assignments/401/hw8/hw8.pdf
+[19:28:29] File watcher: responding to change in /home/turab/Assignments/401/hw8/hw8.tex
+[19:28:29] Parsing /home/turab/Assignments/401/hw8/hw8.tex
+[19:28:29] BUILD command invoked.
+[19:28:29] Found root file from active editor: /home/turab/Assignments/401/hw8/hw8.tex
+[19:28:29] Root file remains unchanged from: /home/turab/Assignments/401/hw8/hw8.tex.
+[19:28:29] Building root file: /home/turab/Assignments/401/hw8/hw8.tex
+[19:28:29] Build root file /home/turab/Assignments/401/hw8/hw8.tex
+[19:28:29] Toolchain step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/turab/Assignments/401/hw8/hw8
+[19:28:29] Parsing /home/turab/Assignments/401/hw8/hw8.tex for outline
+[19:28:29] LaTeX log parsed with 0 messages.
+[19:28:29] Toolchain of length 1 finished.
+[19:28:29] Successfully built /home/turab/Assignments/401/hw8/hw8.tex
+[19:28:29] Refresh PDF viewer for /home/turab/Assignments/401/hw8/hw8.pdf
+[19:28:29] Preview PDF file: /home/turab/Assignments/401/hw8/hw8.pdf
+[19:29:30] File watcher: responding to change in /home/turab/Assignments/401/hw8/hw8.tex
+[19:29:30] Parsing /home/turab/Assignments/401/hw8/hw8.tex
+[19:29:30] BUILD command invoked.
+[19:29:30] Found root file from active editor: /home/turab/Assignments/401/hw8/hw8.tex
+[19:29:30] Root file remains unchanged from: /home/turab/Assignments/401/hw8/hw8.tex.
+[19:29:30] Building root file: /home/turab/Assignments/401/hw8/hw8.tex
+[19:29:30] Build root file /home/turab/Assignments/401/hw8/hw8.tex
+[19:29:30] Toolchain step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/turab/Assignments/401/hw8/hw8
+[19:29:30] Parsing /home/turab/Assignments/401/hw8/hw8.tex for outline
+[19:29:30] LaTeX log parsed with 0 messages.
+[19:29:30] Toolchain of length 1 finished.
+[19:29:30] Successfully built /home/turab/Assignments/401/hw8/hw8.tex
+[19:29:30] Refresh PDF viewer for /home/turab/Assignments/401/hw8/hw8.pdf
+[19:29:30] Preview PDF file: /home/turab/Assignments/401/hw8/hw8.pdf

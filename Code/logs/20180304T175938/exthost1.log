@@ -1,0 +1,12 @@
+[2018-03-04 17:59:40.055] [exthost1] [info] extension host started
+[2018-03-04 17:59:40.078] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-03-04 17:59:40.079] [exthost1] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/emmet/out/extension
+[2018-03-04 17:59:40.162] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-03-04 17:59:40.162] [exthost1] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/git/out/main
+[2018-03-04 17:59:40.240] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-03-04 17:59:40.240] [exthost1] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/merge-conflict/out/extension
+[2018-03-04 17:59:40.258] [exthost1] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"activationEvent":"*"}
+[2018-03-04 17:59:40.258] [exthost1] [info] ExtensionService#loadCommonJSModule /home/turab/.vscode/extensions/vscodevim.vim-0.11.0/out/extension
+[2018-03-04 17:59:40.593] [exthost1] [info] eager extensions activated
+[2018-03-04 17:59:40.610] [exthost1] [info] ExtensionService#_doActivateExtension James-Yu.latex-workshop {"startup":false,"activationEvent":"onLanguage:latex"}
+[2018-03-04 17:59:40.610] [exthost1] [info] ExtensionService#loadCommonJSModule /home/turab/.vscode/extensions/James-Yu.latex-workshop-3.14.0/out/src/main

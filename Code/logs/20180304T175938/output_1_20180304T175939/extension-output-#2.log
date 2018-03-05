@@ -1,0 +1,207 @@
+[17:59:40] Initializing LaTeX Workshop.
+[17:59:40] Creating LaTeX Workshop http and websocket server.
+[17:59:40] LaTeX Workshop initialized.
+[17:59:40] Found root file from active editor: /home/turab/Assignments/401/hw7/hw7.tex
+[17:59:40] Root file changed from: undefined. Find all dependencies.
+[17:59:40] Instatiating new file watcher for /home/turab/Assignments/401/hw7/hw7.tex
+[17:59:40] Parsing /home/turab/Assignments/401/hw7/hw7.tex
+[17:59:40] Server created on 127.0.0.1:38849
+[17:59:40] Default environments loaded
+[17:59:40] LaTeX Workshop version: 3.14.0
+[17:59:40] Default commands loaded
+[17:59:40] Default unimathsymbols loaded
+[17:59:44] ACTIONS command invoked.
+[17:59:47] TAB command invoked.
+[17:59:47] Found root file from active editor: /home/turab/Assignments/401/hw7/hw7.tex
+[17:59:47] Root file remains unchanged from: /home/turab/Assignments/401/hw7/hw7.tex.
+[17:59:47] No PDF viewer connected for /home/turab/Assignments/401/hw7/hw7.pdf
+[17:59:47] Serving PDF file at http://127.0.0.1:38849/viewer.html?file=/pdf:%2Fhome%2Fturab%2FAssignments%2F401%2Fhw7%2Fhw7.pdf
+[17:59:47] Open PDF tab for /home/turab/Assignments/401/hw7/hw7.pdf
+[17:59:47] Preview PDF file: /home/turab/Assignments/401/hw7/hw7.pdf
+[17:59:51] Found root file from active editor: /home/turab/Assignments/401/hw7/hw7.tex
+[17:59:51] Root file remains unchanged from: /home/turab/Assignments/401/hw7/hw7.tex.
+[17:59:56] ACTIONS command invoked.
+[17:59:59] BUILD command invoked.
+[17:59:59] Found root file from active editor: /home/turab/Assignments/401/hw7/hw7.tex
+[17:59:59] Root file remains unchanged from: /home/turab/Assignments/401/hw7/hw7.tex.
+[17:59:59] Building root file: /home/turab/Assignments/401/hw7/hw7.tex
+[17:59:59] Build root file /home/turab/Assignments/401/hw7/hw7.tex
+[17:59:59] Toolchain step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/turab/Assignments/401/hw7/hw7
+[17:59:59] LaTeX log parsed with 1 messages.
+[17:59:59] Toolchain returns with error: 12/null.
+[17:59:59] Cleaning auxillary files and retrying build after toolchain error.
+[17:59:59] CLEAN command invoked.
+[17:59:59] Found root file from active editor: /home/turab/Assignments/401/hw7/hw7.tex
+[17:59:59] Root file remains unchanged from: /home/turab/Assignments/401/hw7/hw7.tex.
+[17:59:59] Found root file from active editor: /home/turab/Assignments/401/hw7/hw7.tex
+[17:59:59] Root file remains unchanged from: /home/turab/Assignments/401/hw7/hw7.tex.
+[17:59:59] File cleaned: /home/turab/Assignments/401/hw7/hw7.aux
+[17:59:59] File cleaned: /home/turab/Assignments/401/hw7/hw7.log
+[17:59:59] File cleaned: /home/turab/Assignments/401/hw7/hw7.fls
+[17:59:59] File cleaned: /home/turab/Assignments/401/hw7/hw7.fdb_latexmk
+[17:59:59] Toolchain step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/turab/Assignments/401/hw7/hw7
+[17:59:59] LaTeX log parsed with 1 messages.
+[17:59:59] Toolchain returns with error: 12/null.
+[18:00:34] Found root file from active editor: /home/turab/Assignments/401/hw7/hw7.tex
+[18:00:34] Root file remains unchanged from: /home/turab/Assignments/401/hw7/hw7.tex.
+[18:01:06] ACTIONS command invoked.
+[18:01:08] BUILD command invoked.
+[18:01:08] Found root file from active editor: /home/turab/Assignments/401/hw7/hw7.tex
+[18:01:08] Root file remains unchanged from: /home/turab/Assignments/401/hw7/hw7.tex.
+[18:01:08] Building root file: /home/turab/Assignments/401/hw7/hw7.tex
+[18:01:08] Build root file /home/turab/Assignments/401/hw7/hw7.tex
+[18:01:08] Toolchain step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/turab/Assignments/401/hw7/hw7
+[18:01:08] File watcher: responding to change in /home/turab/Assignments/401/hw7/hw7.tex
+[18:01:08] Parsing /home/turab/Assignments/401/hw7/hw7.tex
+[18:01:08] BUILD command invoked.
+[18:01:08] Found root file from active editor: /home/turab/Assignments/401/hw7/hw7.tex
+[18:01:08] Root file remains unchanged from: /home/turab/Assignments/401/hw7/hw7.tex.
+[18:01:08] Building root file: /home/turab/Assignments/401/hw7/hw7.tex
+[18:01:08] Build root file /home/turab/Assignments/401/hw7/hw7.tex
+[18:01:08] Kill previous process
+[18:01:08] Parsing /home/turab/Assignments/401/hw7/hw7.tex for outline
+[18:01:08] Toolchain returns with error: null/SIGTERM.
+[18:01:08] Cleaning auxillary files and retrying build after toolchain error.
+[18:01:08] CLEAN command invoked.
+[18:01:08] Found root file from active editor: /home/turab/Assignments/401/hw7/hw7.tex
+[18:01:08] Root file remains unchanged from: /home/turab/Assignments/401/hw7/hw7.tex.
+[18:01:08] Found root file from active editor: /home/turab/Assignments/401/hw7/hw7.tex
+[18:01:08] Root file remains unchanged from: /home/turab/Assignments/401/hw7/hw7.tex.
+[18:01:08] Build root file /home/turab/Assignments/401/hw7/hw7.tex
+[18:01:08] Toolchain step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/turab/Assignments/401/hw7/hw7
+[18:01:08] File cleaned: /home/turab/Assignments/401/hw7/hw7.aux
+[18:01:08] File cleaned: /home/turab/Assignments/401/hw7/hw7.fls
+[18:01:08] File cleaned: /home/turab/Assignments/401/hw7/hw7.log
+[18:01:08] File cleaned: /home/turab/Assignments/401/hw7/hw7.fdb_latexmk
+[18:01:08] Toolchain step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/turab/Assignments/401/hw7/hw7
+[18:01:08] LaTeX log parsed with 0 messages.
+[18:01:08] Toolchain of length 1 finished.
+[18:01:08] Successfully built /home/turab/Assignments/401/hw7/hw7.tex
+[18:01:08] No PDF viewer connected for /home/turab/Assignments/401/hw7/hw7.pdf
+[18:01:08] LaTeX log parsed with 0 messages.
+[18:01:08] Toolchain of length 1 finished.
+[18:01:08] Successfully built /home/turab/Assignments/401/hw7/hw7.tex
+[18:01:08] No PDF viewer connected for /home/turab/Assignments/401/hw7/hw7.pdf
+[18:01:23] ACTIONS command invoked.
+[18:01:24] BUILD command invoked.
+[18:01:24] Found root file from active editor: /home/turab/Assignments/401/hw7/hw7.tex
+[18:01:24] Root file remains unchanged from: /home/turab/Assignments/401/hw7/hw7.tex.
+[18:01:24] Building root file: /home/turab/Assignments/401/hw7/hw7.tex
+[18:01:24] Build root file /home/turab/Assignments/401/hw7/hw7.tex
+[18:01:24] Toolchain step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/turab/Assignments/401/hw7/hw7
+[18:01:24] File watcher: responding to change in /home/turab/Assignments/401/hw7/hw7.tex
+[18:01:24] Parsing /home/turab/Assignments/401/hw7/hw7.tex
+[18:01:24] BUILD command invoked.
+[18:01:24] Found root file from active editor: /home/turab/Assignments/401/hw7/hw7.tex
+[18:01:24] Root file remains unchanged from: /home/turab/Assignments/401/hw7/hw7.tex.
+[18:01:24] Building root file: /home/turab/Assignments/401/hw7/hw7.tex
+[18:01:24] Build root file /home/turab/Assignments/401/hw7/hw7.tex
+[18:01:24] Kill previous process
+[18:01:24] Parsing /home/turab/Assignments/401/hw7/hw7.tex for outline
+[18:01:24] Toolchain returns with error: null/SIGTERM.
+[18:01:24] Cleaning auxillary files and retrying build after toolchain error.
+[18:01:24] CLEAN command invoked.
+[18:01:24] Found root file from active editor: /home/turab/Assignments/401/hw7/hw7.tex
+[18:01:24] Root file remains unchanged from: /home/turab/Assignments/401/hw7/hw7.tex.
+[18:01:24] Found root file from active editor: /home/turab/Assignments/401/hw7/hw7.tex
+[18:01:24] Root file remains unchanged from: /home/turab/Assignments/401/hw7/hw7.tex.
+[18:01:24] Build root file /home/turab/Assignments/401/hw7/hw7.tex
+[18:01:24] Toolchain step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/turab/Assignments/401/hw7/hw7
+[18:01:24] File cleaned: /home/turab/Assignments/401/hw7/hw7.log
+[18:01:24] File cleaned: /home/turab/Assignments/401/hw7/hw7.fls
+[18:01:24] File cleaned: /home/turab/Assignments/401/hw7/hw7.aux
+[18:01:24] File cleaned: /home/turab/Assignments/401/hw7/hw7.fdb_latexmk
+[18:01:24] Toolchain step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/turab/Assignments/401/hw7/hw7
+[18:01:25] LaTeX log parsed with 0 messages.
+[18:01:25] Toolchain of length 1 finished.
+[18:01:25] Successfully built /home/turab/Assignments/401/hw7/hw7.tex
+[18:01:25] No PDF viewer connected for /home/turab/Assignments/401/hw7/hw7.pdf
+[18:01:25] LaTeX log parsed with 0 messages.
+[18:01:25] Toolchain of length 1 finished.
+[18:01:25] Successfully built /home/turab/Assignments/401/hw7/hw7.tex
+[18:01:25] No PDF viewer connected for /home/turab/Assignments/401/hw7/hw7.pdf
+[18:02:25] ACTIONS command invoked.
+[18:02:27] TAB command invoked.
+[18:02:27] Found root file from active editor: /home/turab/Assignments/401/hw7/hw7.tex
+[18:02:27] Root file remains unchanged from: /home/turab/Assignments/401/hw7/hw7.tex.
+[18:02:27] No PDF viewer connected for /home/turab/Assignments/401/hw7/hw7.pdf
+[18:02:27] Serving PDF file at http://127.0.0.1:38849/viewer.html?file=/pdf:%2Fhome%2Fturab%2FAssignments%2F401%2Fhw7%2Fhw7.pdf
+[18:02:27] Open PDF tab for /home/turab/Assignments/401/hw7/hw7.pdf
+[18:02:28] Preview PDF file: /home/turab/Assignments/401/hw7/hw7.pdf
+[18:02:29] Found root file from active editor: /home/turab/Assignments/401/hw7/hw7.tex
+[18:02:29] Root file remains unchanged from: /home/turab/Assignments/401/hw7/hw7.tex.
+[18:02:30] File watcher: responding to change in /home/turab/Assignments/401/hw7/hw7.tex
+[18:02:30] Parsing /home/turab/Assignments/401/hw7/hw7.tex
+[18:02:30] BUILD command invoked.
+[18:02:30] Found root file from active editor: /home/turab/Assignments/401/hw7/hw7.tex
+[18:02:30] Root file remains unchanged from: /home/turab/Assignments/401/hw7/hw7.tex.
+[18:02:30] Building root file: /home/turab/Assignments/401/hw7/hw7.tex
+[18:02:30] Build root file /home/turab/Assignments/401/hw7/hw7.tex
+[18:02:30] Toolchain step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/turab/Assignments/401/hw7/hw7
+[18:02:30] Parsing /home/turab/Assignments/401/hw7/hw7.tex for outline
+[18:02:30] LaTeX log parsed with 1 messages.
+[18:02:30] Toolchain returns with error: 12/null.
+[18:02:30] Cleaning auxillary files and retrying build after toolchain error.
+[18:02:30] CLEAN command invoked.
+[18:02:30] Found root file from active editor: /home/turab/Assignments/401/hw7/hw7.tex
+[18:02:30] Root file remains unchanged from: /home/turab/Assignments/401/hw7/hw7.tex.
+[18:02:30] Found root file from active editor: /home/turab/Assignments/401/hw7/hw7.tex
+[18:02:30] Root file remains unchanged from: /home/turab/Assignments/401/hw7/hw7.tex.
+[18:02:30] File cleaned: /home/turab/Assignments/401/hw7/hw7.aux
+[18:02:30] File cleaned: /home/turab/Assignments/401/hw7/hw7.fdb_latexmk
+[18:02:30] File cleaned: /home/turab/Assignments/401/hw7/hw7.fls
+[18:02:30] File cleaned: /home/turab/Assignments/401/hw7/hw7.log
+[18:02:30] Toolchain step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/turab/Assignments/401/hw7/hw7
+[18:02:30] LaTeX log parsed with 1 messages.
+[18:02:30] Toolchain returns with error: 12/null.
+[18:02:34] ACTIONS command invoked.
+[18:02:40] File watcher: responding to change in /home/turab/Assignments/401/hw7/hw7.tex
+[18:02:40] Parsing /home/turab/Assignments/401/hw7/hw7.tex
+[18:02:40] BUILD command invoked.
+[18:02:40] Found root file from active editor: /home/turab/Assignments/401/hw7/hw7.tex
+[18:02:40] Root file remains unchanged from: /home/turab/Assignments/401/hw7/hw7.tex.
+[18:02:40] Building root file: /home/turab/Assignments/401/hw7/hw7.tex
+[18:02:40] Build root file /home/turab/Assignments/401/hw7/hw7.tex
+[18:02:40] Toolchain step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/turab/Assignments/401/hw7/hw7
+[18:02:40] Parsing /home/turab/Assignments/401/hw7/hw7.tex for outline
+[18:02:40] File watcher: responding to change in /home/turab/Assignments/401/hw7/hw7.tex
+[18:02:40] Parsing /home/turab/Assignments/401/hw7/hw7.tex
+[18:02:40] LaTeX log parsed with 0 messages.
+[18:02:40] Toolchain of length 1 finished.
+[18:02:40] Successfully built /home/turab/Assignments/401/hw7/hw7.tex
+[18:02:40] Refresh PDF viewer for /home/turab/Assignments/401/hw7/hw7.pdf
+[18:02:41] Preview PDF file: /home/turab/Assignments/401/hw7/hw7.pdf
+[18:03:20] File watcher: responding to change in /home/turab/Assignments/401/hw7/hw7.tex
+[18:03:20] Parsing /home/turab/Assignments/401/hw7/hw7.tex
+[18:03:20] BUILD command invoked.
+[18:03:20] Found root file from active editor: /home/turab/Assignments/401/hw7/hw7.tex
+[18:03:20] Root file remains unchanged from: /home/turab/Assignments/401/hw7/hw7.tex.
+[18:03:20] Building root file: /home/turab/Assignments/401/hw7/hw7.tex
+[18:03:20] Build root file /home/turab/Assignments/401/hw7/hw7.tex
+[18:03:20] Toolchain step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/turab/Assignments/401/hw7/hw7
+[18:03:20] Parsing /home/turab/Assignments/401/hw7/hw7.tex for outline
+[18:03:21] LaTeX log parsed with 0 messages.
+[18:03:21] Toolchain of length 1 finished.
+[18:03:21] Successfully built /home/turab/Assignments/401/hw7/hw7.tex
+[18:03:21] Refresh PDF viewer for /home/turab/Assignments/401/hw7/hw7.pdf
+[18:03:21] Preview PDF file: /home/turab/Assignments/401/hw7/hw7.pdf
+[18:04:00] Executing synctex with args edit,-o,3:414.5594855305466:691.2201347719051:/home/turab/Assignments/401/hw7/hw7.pdf
+[18:04:00] SyncTeX to file /home/turab/Assignments/401/hw7/hw7.tex
+[18:04:00] Found root file from active editor: /home/turab/Assignments/401/hw7/hw7.tex
+[18:04:00] Root file remains unchanged from: /home/turab/Assignments/401/hw7/hw7.tex.
+[18:04:07] File watcher: responding to change in /home/turab/Assignments/401/hw7/hw7.tex
+[18:04:07] Parsing /home/turab/Assignments/401/hw7/hw7.tex
+[18:04:07] BUILD command invoked.
+[18:04:07] Found root file from active editor: /home/turab/Assignments/401/hw7/hw7.tex
+[18:04:07] Root file remains unchanged from: /home/turab/Assignments/401/hw7/hw7.tex.
+[18:04:07] Building root file: /home/turab/Assignments/401/hw7/hw7.tex
+[18:04:07] Build root file /home/turab/Assignments/401/hw7/hw7.tex
+[18:04:07] Toolchain step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,/home/turab/Assignments/401/hw7/hw7
+[18:04:07] Parsing /home/turab/Assignments/401/hw7/hw7.tex for outline
+[18:04:07] File watcher: responding to change in /home/turab/Assignments/401/hw7/hw7.tex
+[18:04:07] Parsing /home/turab/Assignments/401/hw7/hw7.tex
+[18:04:08] LaTeX log parsed with 0 messages.
+[18:04:08] Toolchain of length 1 finished.
+[18:04:08] Successfully built /home/turab/Assignments/401/hw7/hw7.tex
+[18:04:08] Refresh PDF viewer for /home/turab/Assignments/401/hw7/hw7.pdf
+[18:04:08] Preview PDF file: /home/turab/Assignments/401/hw7/hw7.pdf

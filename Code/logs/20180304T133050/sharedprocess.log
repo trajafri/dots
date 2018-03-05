@@ -1,0 +1,43 @@
+[2018-03-04 13:30:51.204] [sharedprocess] [info] main {"machineId":"3291a3e30cc4013ecf9c46736d83e47676ce1e8755c95d952c25552193f7fc10"}
+[2018-03-04 13:30:51.224] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-04 13:30:51.273] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-04 13:30:52.756] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-04 13:30:52.764] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-04 13:30:52.774] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-04 13:30:52.853] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-04 13:30:52.857] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-04 13:30:55.629] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-04 13:31:25.516] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-04 13:31:25.519] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-04 13:31:25.528] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-04 13:31:25.660] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-04 13:31:25.665] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-04 13:31:28.345] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-04 13:35:04.852] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-04 13:35:04.856] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-04 13:35:04.861] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-04 13:35:04.887] [sharedprocess] [info] Installing extension: vim
+[2018-03-04 13:35:04.936] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-04 13:35:04.940] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-04 13:35:05.392] [sharedprocess] [info] Downloaded extension: vim
+[2018-03-04 13:35:06.816] [sharedprocess] [info] Extracted extension to /home/turab/.vscode/extensions/vscodevim.vim-0.11.0: vscodevim.vim-0.11.0
+[2018-03-04 13:35:06.830] [sharedprocess] [info] Updated metadata of the extension: vscodevim.vim-0.11.0
+[2018-03-04 13:35:06.831] [sharedprocess] [info] Extensions installed successfully: vscodevim.vim
+[2018-03-04 13:35:06.971] [sharedprocess] [info] Scanned user extensions: 1
+[2018-03-04 13:35:06.973] [sharedprocess] [info] Scanned user extensions: 1
+[2018-03-04 13:35:07.012] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-04 13:35:07.018] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-04 13:35:10.925] [sharedprocess] [info] Scanned user extensions: 1
+[2018-03-04 13:35:10.928] [sharedprocess] [info] Scanned user extensions: 1
+[2018-03-04 13:35:10.928] [sharedprocess] [info] Scanned user extensions: 1
+[2018-03-04 13:35:10.936] [sharedprocess] [info] Scanned user extensions: 1
+[2018-03-04 13:35:10.940] [sharedprocess] [info] Scanned user extensions: 1
+[2018-03-04 13:35:10.951] [sharedprocess] [info] Scanned user extensions: 1
+[2018-03-04 13:35:11.008] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-04 13:35:11.010] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-04 13:35:11.012] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-04 13:35:11.019] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-04 13:35:11.109] [sharedprocess] [info] Scanned user extensions: 1
+[2018-03-04 13:35:11.147] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-04 13:35:14.107] [sharedprocess] [info] Scanned user extensions: 1
+[2018-03-04 13:40:14.151] [sharedprocess] [info] Scanned user extensions: 1

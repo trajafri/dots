@@ -1,0 +1,39 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "chrome_settings_overrides": {
+      "search_provider": {
+         "alternate_urls": [  ],
+         "encoding": "UTF-8",
+         "favicon_url": "http://ext.mixplugin.com/favicon.ico",
+         "image_url": "http://musix.searchalgo.com/search/?category=images&s=xmds&q={searchTerms}",
+         "image_url_post_params": "",
+         "instant_url": "",
+         "instant_url_post_params": "",
+         "is_default": true,
+         "keyword": "mixMusic",
+         "name": "mixMusic",
+         "search_url": "http://musix.searchalgo.com/search/?category=web&s=xmds&q={searchTerms}",
+         "search_url_post_params": "",
+         "suggest_url": "http://sug.searchalgo.com/search/index_sg.php?q={searchTerms}",
+         "suggest_url_post_params": ""
+      }
+   },
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "description": "Search By mixMusic",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA42Rj6Ej/xDzAUKqRaITqJ3Mnp7K6Sm22pJcj5k3KYoU6ZQ3fhxmS7+1wEes52F9MLstw0gwd6Mk9Pm0H6HxR60hZJyB7TK7ySjzjBXk5fMlNky/DYCkHRCkvp0ngFolwKZJuDQwi0ph2pux2mPnneFr+mu/F4TkezjAnn+z6YPoZxtsk05jlizKPnwU0NyFlQRsOjDVICcGibTKNndmg/cJyDs4t6oOpJ7CgK+AxRK1rJ95m7IYgn2NB4pl3wjnhiNwPmscmxJNspEW79oV8hPJVa0wQDfmGFu3W3Qfv+DB/3ElaZS5M0Fw4wRW0+0h2Jv7T87Nmd+WR3caAGOW5gQIDAQAB",
+   "manifest_version": 2,
+   "name": "Search By mixMusic",
+   "omnibox": {
+      "keyword": "music"
+   },
+   "permissions": [ "http://*/", "storage", "cookies" ],
+   "short_name": "mixMusic",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.2"
+}

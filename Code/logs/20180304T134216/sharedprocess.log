@@ -1,0 +1,66 @@
+[2018-03-04 13:42:16.683] [sharedprocess] [info] main {"machineId":"3291a3e30cc4013ecf9c46736d83e47676ce1e8755c95d952c25552193f7fc10"}
+[2018-03-04 13:42:16.717] [sharedprocess] [info] Scanned user extensions: 1
+[2018-03-04 13:42:16.753] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-04 13:42:17.420] [sharedprocess] [info] Scanned user extensions: 1
+[2018-03-04 13:42:17.422] [sharedprocess] [info] Scanned user extensions: 1
+[2018-03-04 13:42:17.467] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-04 13:42:17.587] [sharedprocess] [info] Scanned user extensions: 1
+[2018-03-04 13:42:17.644] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-04 13:42:20.557] [sharedprocess] [info] Scanned user extensions: 1
+[2018-03-04 13:43:46.934] [sharedprocess] [info] Scanned user extensions: 1
+[2018-03-04 13:43:46.935] [sharedprocess] [info] Scanned user extensions: 1
+[2018-03-04 13:43:46.939] [sharedprocess] [info] Scanned user extensions: 1
+[2018-03-04 13:43:46.966] [sharedprocess] [info] Installing extension: latex-workshop
+[2018-03-04 13:43:47.007] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-04 13:43:47.011] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-04 13:43:49.869] [sharedprocess] [info] Downloaded extension: latex-workshop
+[2018-03-04 13:43:50.855] [sharedprocess] [info] Extracted extension to /home/turab/.vscode/extensions/James-Yu.latex-workshop-3.14.0: James-Yu.latex-workshop-3.14.0
+[2018-03-04 13:43:50.868] [sharedprocess] [info] Updated metadata of the extension: James-Yu.latex-workshop-3.14.0
+[2018-03-04 13:43:50.868] [sharedprocess] [info] Extensions installed successfully: James-Yu.latex-workshop
+[2018-03-04 13:43:51.004] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 13:43:51.038] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-04 13:44:08.330] [sharedprocess] [info] Installing extension: latex-workshop
+[2018-03-04 13:44:08.477] [sharedprocess] [info] Downloaded extension: latex-workshop
+[2018-03-04 13:44:09.484] [sharedprocess] [info] Extracted extension to /home/turab/.vscode/extensions/James-Yu.latex-workshop-3.14.0: James-Yu.latex-workshop-3.14.0
+[2018-03-04 13:44:09.498] [sharedprocess] [info] Updated metadata of the extension: James-Yu.latex-workshop-3.14.0
+[2018-03-04 13:44:09.499] [sharedprocess] [info] Extensions installed successfully: James-Yu.latex-workshop
+[2018-03-04 13:44:09.642] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 13:44:09.685] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-04 13:44:15.543] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 13:44:15.544] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 13:44:15.548] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 13:44:15.563] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 13:44:15.565] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 13:44:15.618] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-04 13:44:15.620] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-04 13:44:15.623] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-04 13:44:18.701] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 13:49:18.723] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 13:54:18.742] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 13:59:18.761] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 14:04:18.783] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 14:09:18.805] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 14:14:18.829] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 14:19:18.873] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 14:24:18.885] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 14:29:18.905] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 14:34:18.980] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 14:39:19.001] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 14:44:19.020] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 14:49:19.040] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 14:54:19.054] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 14:59:19.068] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 15:04:19.112] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 15:09:19.140] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 15:14:19.157] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 15:19:19.172] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 15:24:19.184] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 15:29:19.205] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 15:34:19.274] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 15:39:19.313] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 15:44:19.330] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 15:49:19.355] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 15:54:19.377] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 15:59:19.412] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 16:04:19.426] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-04 16:09:19.449] [sharedprocess] [info] Scanned user extensions: 2

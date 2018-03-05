@@ -1,0 +1,12 @@
+[2018-03-04 13:41:33.729] [renderer1] [error] Unable to write into user settings because the file is dirty. Please save the **User Settings** file and try again.: Error: Unable to write into user settings because the file is dirty. Please save the **User Settings** file and try again.
+    at new t (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3753:9)
+    at e.wrapError (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3756:976)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3761:121
+    at Object.g [as _notify] (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:140:868)
+    at Object.enter (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:144:153)
+    at n.Class.derive._creator._run (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:145:970)
+    at n.Class.derive._creator._completed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:145:411)
+    at n.Class.derive._creator.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:147:398)
+    at Object.enter (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:143:238)
+    at n.Class.derive._creator._run (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:145:970)
+    at n.Class.derive._creator._setCompleteValue (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:145:664)

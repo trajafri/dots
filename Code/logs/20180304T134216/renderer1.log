@@ -1,0 +1,34 @@
+[2018-03-04 13:42:47.013] [renderer1] [error] Unable to write into user settings because the file is dirty. Please save the **User Settings** file and try again.: Error: Unable to write into user settings because the file is dirty. Please save the **User Settings** file and try again.
+    at new t (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3753:9)
+    at e.wrapError (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3756:976)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3761:121
+    at Object.g [as _notify] (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:140:868)
+    at Object.enter (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:144:153)
+    at n.Class.derive._creator._run (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:145:970)
+    at n.Class.derive._creator._completed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:145:411)
+    at n.Class.derive._creator.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:147:398)
+    at Object.enter (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:143:238)
+    at n.Class.derive._creator._run (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:145:970)
+    at n.Class.derive._creator._setCompleteValue (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:145:664)
+[2018-03-04 13:43:02.110] [renderer1] [error] Unable to write into user settings because the file is dirty. Please save the **User Settings** file and try again.: Error: Unable to write into user settings because the file is dirty. Please save the **User Settings** file and try again.
+    at new t (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3753:9)
+    at e.wrapError (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3756:976)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:3761:121
+    at Object.g [as _notify] (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:140:868)
+    at Object.enter (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:144:153)
+    at n.Class.derive._creator._run (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:145:970)
+    at n.Class.derive._creator._completed (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:145:411)
+    at n.Class.derive._creator.then (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:147:398)
+    at Object.enter (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:143:238)
+    at n.Class.derive._creator._run (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:145:970)
+    at n.Class.derive._creator._setCompleteValue (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:145:664)
+[2018-03-04 15:52:12.104] [renderer1] [error] Cannot read property 'element' of undefined: TypeError: Cannot read property 'element' of undefined
+    at e.element (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:383:327)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:410:523
+    at Array.map (native)
+    at e.open (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:410:493)
+    at e.onMouseDown (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:400:356)
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:159:849
+    at file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:159:622
+    at e.fire (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:161:76)
+    at HTMLDivElement.r (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.main.js:169:105)

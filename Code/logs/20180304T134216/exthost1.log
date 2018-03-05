@@ -1,0 +1,30 @@
+[2018-03-04 13:42:18.155] [exthost1] [info] extension host started
+[2018-03-04 13:42:18.177] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-03-04 13:42:18.178] [exthost1] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/emmet/out/extension
+[2018-03-04 13:42:18.246] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-03-04 13:42:18.246] [exthost1] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/git/out/main
+[2018-03-04 13:42:18.323] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-03-04 13:42:18.323] [exthost1] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/merge-conflict/out/extension
+[2018-03-04 13:42:18.338] [exthost1] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"activationEvent":"*"}
+[2018-03-04 13:42:18.338] [exthost1] [info] ExtensionService#loadCommonJSModule /home/turab/.vscode/extensions/vscodevim.vim-0.11.0/out/extension
+[2018-03-04 13:42:18.682] [exthost1] [info] eager extensions activated
+[2018-03-04 13:42:18.699] [exthost1] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-03-04 13:42:18.699] [exthost1] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/configuration-editing/out/extension
+[2018-03-04 13:42:18.711] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-03-04 13:42:18.711] [exthost1] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/json/client/out/jsonMain
+[2018-03-04 13:44:16.312] [exthost1] [info] extension host started
+[2018-03-04 13:44:16.336] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-03-04 13:44:16.336] [exthost1] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/emmet/out/extension
+[2018-03-04 13:44:16.414] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-03-04 13:44:16.414] [exthost1] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/git/out/main
+[2018-03-04 13:44:16.492] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-03-04 13:44:16.492] [exthost1] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/merge-conflict/out/extension
+[2018-03-04 13:44:16.508] [exthost1] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"activationEvent":"*"}
+[2018-03-04 13:44:16.508] [exthost1] [info] ExtensionService#loadCommonJSModule /home/turab/.vscode/extensions/vscodevim.vim-0.11.0/out/extension
+[2018-03-04 13:44:16.863] [exthost1] [info] eager extensions activated
+[2018-03-04 13:44:16.879] [exthost1] [info] ExtensionService#_doActivateExtension James-Yu.latex-workshop {"startup":false,"activationEvent":"onLanguage:latex"}
+[2018-03-04 13:44:16.879] [exthost1] [info] ExtensionService#loadCommonJSModule /home/turab/.vscode/extensions/James-Yu.latex-workshop-3.14.0/out/src/main
+[2018-03-04 13:53:21.863] [exthost1] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-03-04 13:53:21.863] [exthost1] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/configuration-editing/out/extension
+[2018-03-04 13:53:21.881] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-03-04 13:53:21.881] [exthost1] [info] ExtensionService#loadCommonJSModule /opt/visual-studio-code/resources/app/extensions/json/client/out/jsonMain
