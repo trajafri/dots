@@ -9,28 +9,29 @@
 
 [colors]
 ;background = ${xrdb:color0:#222}
-background = #222
+background = #00000000
 background-alt = #444
 ;foreground = ${xrdb:color7:#222}
 foreground = #dfdfdf
 foreground-alt = #555
-primary = #ffb52a
+primary = #6c5475
 secondary = #e60053
 alert = #bd2c40
 
 [bar/main]
 ;monitor = ${env:MONITOR:HDMI-1}
 width = 100%
-height = 27
+height = 15      ; Height of polybar
 ;offset-x = 1%
 ;offset-y = 1%
-radius = 6.0
+radius = 0.0
 fixed-center = false
 
 background = ${colors.background}
 foreground = ${colors.foreground}
 
-line-size = 3
+;Line under battery, temp etc
+line-size = 2
 line-color = #f00
 
 border-size = 4
@@ -48,7 +49,7 @@ font-2 = siji:pixelsize=10;1
 
 modules-left = bspwm i3
 modules-center = 
-modules-right = filesystem xbacklight volume xkeyboard memory cpu battery temperature date powermenu
+modules-right = filesystem xbacklight volume memory cpu battery temperature date powermenu
 
 tray-position = right
 tray-padding = 2
@@ -191,7 +192,7 @@ card = intel_backlight
 type = internal/cpu
 interval = 2
 format-prefix = " "
-format-prefix-foreground = ${colors.foreground-alt}
+format-prefix-foreground = #f90000
 format-underline = #f90000
 label = %percentage:2%%
 
@@ -199,7 +200,7 @@ label = %percentage:2%%
 type = internal/memory
 interval = 2
 format-prefix = " "
-format-prefix-foreground = ${colors.foreground-alt}
+format-prefix-foreground = #4bffdc
 format-underline = #4bffdc
 label = %percentage_used%%
 
@@ -252,7 +253,7 @@ time = %H:%M
 time-alt = %H:%M:%S
 
 format-prefix = 
-format-prefix-foreground = ${colors.foreground-alt}
+format-prefix-foreground = #0a6cf5
 format-underline = #0a6cf5
 
 label = %date% %time%
@@ -266,7 +267,7 @@ label-volume-foreground = ${root.foreground}
 
 format-muted-prefix = " "
 format-muted-foreground = ${colors.foreground-alt}
-label-muted = sound muted
+label-muted = muted
 
 bar-volume-width = 10
 bar-volume-foreground-0 = #55aa55
