@@ -21,7 +21,7 @@ alert = #bd2c40
 [bar/top]
 monitor = eDP-1
 width = 100%
-height = 15      ; Height of polybar
+height = 17     ; Height of polybar
 radius = 0.0
 fixed-center = false
 
@@ -41,18 +41,14 @@ padding-right = 2
 module-margin-left = 1
 module-margin-right = 2
 
-font-0 = NotoSans-Regular:pixelsize=10;1
-font-1 = unifont:fontformat=truetype:size=8:antialias=false;0
-font-2 = "Wuncon Siji:pixelsize=10;1"
+font-0 = NotoSans-Regular:pixelsize=8;-1
+font-1 = MaterialIcons:size=10;0
+font-2 = Termsynu:size=8:antialias=false;-2
+font-3 = FontAwesome:pixelsize=10;0
 
-modules-left = 
+modules-left = powermenu xwindow
 modules-center = 
-modules-right = filesystem xbacklight volume battery date powermenu
-
-tray-position = right
-tray-padding = 2
-cursor-click = pointer
-cursor-scroll = ns-resize
+modules-right = volume xbacklight battery date
 
 [bar/bottom]
 monitor = eDP-1
@@ -72,19 +68,26 @@ line-color = #f00
 border-size = 4
 border-color = #00000000
 
+spacing = 3
 padding-left = 0
 padding-right = 2
 
 module-margin-left = 1
 module-margin-right = 2
 
-font-0 = NotoSans-Regular:pixelsize=7;1
+font-0 = NotoSans-Regular:pixelsize=8;1
 font-1 = unifont:fontformat=truetype:size=8:antialias=false;0
 font-2 = "Wuncon Siji:pixelsize=10;1"
+font-3 = MaterialIcons:size=10;-1
 
 modules-left = i3 
 modules-center = 
-modules-right = memory cpu temperature 
+modules-right = filesystem memory cpu temperature 
+
+tray-position = right
+tray-padding = 2
+cursor-click = pointer
+cursor-scroll = ns-resize
 
 [module/xwindow]
 type = internal/xwindow
@@ -171,22 +174,25 @@ label-urgent = %index%
 label-urgent-background = ${module/bspwm.label-focused-background}
 label-urgent-padding = ${module/bspwm.label-focused-padding}
 
+
 [module/xbacklight]
 type = internal/xbacklight
+format = <ramp> <bar>
 
-format = <label> <bar>
-label = BL
+ramp-0 = 
+ramp-1 = 
+ramp-2 = 
 
-bar-width = 8
+bar-width = 10
 bar-indicator = |
+bar-indicator-font = 3
 bar-indicator-foreground = #ff
-bar-indicator-font = 2
 bar-fill = ─
-bar-fill-font = 2
-bar-fill-foreground = #9f78e1
+bar-fill-font = 3
+bar-fill-foreground = #ff
 bar-empty = ─
-bar-empty-font = 2
-bar-empty-foreground = ${colors.foreground-alt}
+bar-empty-font = 3
+bar-empty-foreground = #44
 
 [module/backlight-acpi]
 inherit = module/xbacklight
@@ -249,73 +255,54 @@ format-disconnected =
 
 [module/date]
 type = internal/date
-interval = 1
-
-date = "%B-%d-%y"
-date-alt = "%B-%d-%y"
-
-time = %H:%M
-time-alt = %H:%M:%S
-
-format-prefix = 
-format-prefix-foreground = #0a6cf5
-format-underline = #0a6cf5
-
-label = %date% %time%
+interval = 2
+date = %%{F#ff}%Y-%m-%d%%{F-}  %%{F#fff}%H:%M%%{F-}
 
 [module/volume]
 type = internal/volume
+headphone-id = 9
 
-format-volume = <label-volume> <bar-volume>
-label-volume = VOL
-label-volume-foreground = ${root.foreground}
+format-volume = <ramp-volume> <label-volume>
+label-muted =   muted
+label-muted-foreground = #66
 
-format-muted-prefix = " "
-format-muted-foreground = ${colors.foreground-alt}
-label-muted = muted
-
-bar-volume-width = 8
-bar-volume-foreground-0 = #55aa55
-bar-volume-foreground-1 = #55aa55
-bar-volume-foreground-2 = #55aa55
-bar-volume-foreground-3 = #55aa55
-bar-volume-foreground-4 = #55aa55
-bar-volume-foreground-5 = #f5a70a
-bar-volume-foreground-6 = #ff5555
-bar-volume-gradient = false
-bar-volume-indicator = |
-bar-volume-indicator-font = 2
-bar-volume-fill = ─
-bar-volume-fill-font = 2
-bar-volume-empty = ─
-bar-volume-empty-font = 2
-bar-volume-empty-foreground = ${colors.foreground-alt}
+ramp-volume-0 = 
+ramp-volume-1 = 
+ramp-volume-2 = 
+ramp-volume-3 = 
 
 [module/battery]
 type = internal/battery
+full-at = 98
 battery = BAT0
-adapter = AC
-full-at = 99
+adapter = ADP1
 
 format-charging = <animation-charging> <label-charging>
-format-charging-underline = #ffb52a
-
 format-discharging = <ramp-capacity> <label-discharging>
-format-discharging-underline = ${self.format-charging-underline}
+format-full = 
 
-format-full-prefix = " "
-format-full-prefix-foreground = ${colors.foreground-alt}
-format-full-underline = ${self.format-charging-underline}
+ramp-capacity-0 = 
+ramp-capacity-0-foreground = #f53c3c
+ramp-capacity-1 = 
+ramp-capacity-1-foreground = #ffa900
+ramp-capacity-2 = 
+ramp-capacity-3 = 
+ramp-capacity-4 = 
 
-ramp-capacity-0 = 
-ramp-capacity-1 = 
-ramp-capacity-2 = 
-ramp-capacity-foreground = ${colors.foreground-alt}
+bar-capacity-width = 10
+bar-capacity-format = %{+u}%{+o}%fill%%empty%%{-u}%{-o}
+bar-capacity-fill = █
+bar-capacity-fill-foreground = #ddffffff
+bar-capacity-fill-font = 3
+bar-capacity-empty = █
+bar-capacity-empty-font = 3
+bar-capacity-empty-foreground = #44ffffff
 
-animation-charging-0 = 
-animation-charging-1 = 
-animation-charging-2 = 
-animation-charging-foreground = ${colors.foreground-alt}
+animation-charging-0 = 
+animation-charging-1 = 
+animation-charging-2 = 
+animation-charging-3 = 
+animation-charging-4 = 
 animation-charging-framerate = 750
 
 [module/temperature]
@@ -343,14 +330,12 @@ type = custom/menu
 expand-right = true
 
 format-spacing = 1
-
-label-open = 
-label-open-foreground = ${colors.secondary}
-label-close =  cancel
-label-close-foreground = ${colors.secondary}
+label-open = 
+label-open-foreground = #ff
+label-close = 
+label-close-foreground = #ff 
 label-separator = |
-label-separator-foreground = ${colors.foreground-alt}
-
+label-separator-foreground = #ff
 menu-0-0 = reboot
 menu-0-0-exec = menu-open-1
 menu-0-1 = power off
