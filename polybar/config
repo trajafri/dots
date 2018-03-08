@@ -46,8 +46,8 @@ font-1 = MaterialIcons:size=10;0
 font-2 = Termsynu:size=8:antialias=false;-2
 font-3 = FontAwesome:pixelsize=10;0
 
-modules-left = powermenu xwindow
-modules-center = 
+modules-left = powermenu
+modules-center = xwindow
 modules-right = volume xbacklight battery date
 
 [bar/bottom]
@@ -65,7 +65,7 @@ foreground = ${colors.foreground}
 line-size = 2
 line-color = #f00
 
-border-size = 4
+border-size = 5
 border-color = #00000000
 
 spacing = 3
@@ -75,10 +75,11 @@ padding-right = 2
 module-margin-left = 1
 module-margin-right = 2
 
-font-0 = NotoSans-Regular:pixelsize=8;1
-font-1 = unifont:fontformat=truetype:size=8:antialias=false;0
-font-2 = "Wuncon Siji:pixelsize=10;1"
-font-3 = MaterialIcons:size=10;-1
+font-0 = NotoSans-Regular:pixelsize=8;0
+font-1 = "Wuncon Siji:pixelsize=8;1"
+font-2 = MaterialIcons:size=8;1
+font-3 = FontAwesome:pixelsize=8;1
+
 
 modules-left = i3 
 modules-center = 
@@ -204,7 +205,6 @@ type = internal/cpu
 interval = 2
 format-prefix = " "
 format-prefix-foreground = #f90000
-format-underline = #f90000
 label = %percentage:2%%
 
 [module/memory]
@@ -212,7 +212,6 @@ type = internal/memory
 interval = 2
 format-prefix = " "
 format-prefix-foreground = #4bffdc
-format-underline = #4bffdc
 label = %percentage_used%%
 
 [module/wlan]
@@ -287,7 +286,7 @@ ramp-capacity-1 = 
 ramp-capacity-1-foreground = #ffa900
 ramp-capacity-2 = 
 ramp-capacity-3 = 
-ramp-capacity-4 = 
+ramp-capacity-4 = 
 
 bar-capacity-width = 10
 bar-capacity-format = %{+u}%{+o}%fill%%empty%%{-u}%{-o}
@@ -311,18 +310,17 @@ thermal-zone = 0
 warn-temperature = 60
 
 format = <ramp> <label>
-format-underline = #f50a4d
 format-warn = <ramp> <label-warn>
-format-warn-underline = ${self.format-underline}
 
 label = %temperature%
 label-warn = %temperature%
-label-warn-foreground = ${colors.secondary}
-
-ramp-0 = 
-ramp-1 = 
-ramp-2 = 
-ramp-foreground = ${colors.foreground-alt}
+           
+ramp-0 = 
+ramp-0-foreground = #ff082ff
+ramp-1 = 
+ramp-1-foreground = #ff082ff
+ramp-2 = 
+ramp-2-foreground = #ff082ff
 
 [module/powermenu]
 type = custom/menu
