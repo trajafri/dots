@@ -195,4 +195,4 @@ client.placeholder          $bg     $bg         $bg     $bg
 new_window 1pixel
 smart_borders on
 gaps inner 3
-gaps outer 6
+gaps outer 0
