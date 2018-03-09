@@ -45,7 +45,7 @@ font-2 = Termsynu:size=8:antialias=false;-2
 font-3 = FontAwesome:pixelsize=10;0
 
 modules-left = powermenu
-modules-center = xwindow
+modules-center = 
 modules-right = volume xbacklight battery wireless-network date
 
 [bar/bottom]
@@ -73,14 +73,14 @@ padding-right = 2
 module-margin-left = 1
 module-margin-right = 2
 
-font-0 = NotoSans-Regular:pixelsize=8;0
+font-0 = NotoSans-Regular:pixelsize=8;0.5
 font-1 = "Wuncon Siji:pixelsize=8;1"
 font-2 = MaterialIcons:size=8;1
 font-3 = FontAwesome:pixelsize=8;1
 
 
 modules-left = i3 
-modules-center = 
+modules-center = xwindow
 modules-right = filesystem memory cpu temperature 
 
 tray-position = right
@@ -155,12 +155,13 @@ label-mode-background = ${colors.primary}
 label-focused = %index%
 label-focused-background = ${module/bspwm.label-focused-background}
 label-focused-underline = ${module/bspwm.label-focused-underline}
-                                      ; was label-focused-underline
-label-focused-padding = ${module/bspwm.label-focused-padding}
+label-focused-padding = 2
 
 ; unfocused = Inactive workspace on any monitor
 label-unfocused = %index%
-label-unfocused-padding = ${module/bspwm.label-occupied-padding}
+label-unfocused-background = ${module/bspwm.label-focused-background}
+label-unfocused-underline = #4b4948
+label-unfocused-padding = 2
 
 ; visible = Active workspace on unfocused monitor
 label-visible = %index%
@@ -275,8 +276,8 @@ format-disconnected =
 
 [module/date]
 type = internal/date
-interval = 2
-date = %%{F#ff}%Y-%m-%d%%{F-}  %%{F#fff}%H:%M%%{F-}
+date =    %%{F#fff}%Y-%m-%d%%{F-}  %%{F#fff}%H:%M%%{F-}
+date-alt = %%{F#fff}%A, %d %B %Y  %%{F#fff}%H:%M%%{F#666}:%%{F#fba922}%S%%{F-}
 
 [module/volume]
 type = internal/volume
