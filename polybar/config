@@ -216,7 +216,7 @@ label = %percentage_used%%
 
 [module/wireless-network]
 type = internal/network
-interface = net1
+interface = wlp5s0
 interval = 3.0
 ping-interval = 10
 
