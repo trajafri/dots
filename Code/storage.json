@@ -444,26 +444,43 @@
     },
     "theme": "vs-dark vscode-theme-defaults-themes-dark_plus-json",
     "themeBackground": "#1e1e1e",
-    "pickerWorkingDir": "/home/turab/Assignments/401/hw8",
+    "pickerWorkingDir": "/home/turab/Assignments/403/hw6",
     "openedPathsList": {
         "workspaces": [
+            "/home/turab/.AndroidStudio2.3/system/log",
+            "/home/turab/.AndroidStudio2.3/system/log",
+            "/run/media/turab/My Passport",
+            "/home/turab/Downloads",
             "/home/turab/Assignments/401/hw7"
         ],
         "files": [
-            "/home/turab/Assignments/401/hw8/hw8.tex"
+            "/home/turab/Assignments/403/hw6/hw6.tex",
+            "/home/turab/Assignments/401/hw12/hw12.tex",
+            "/home/turab/IdeaProjects/B403Project2/report/b403p2report.tex",
+            "/home/turab/Assignments/401/hw11/hw11.tex",
+            "/home/turab/Downloads/exerciseset7.pie",
+            "/home/turab/Assignments/403/hw5/hw5.tex",
+            "/home/turab/Assignments/401/hw10/hw10.tex",
+            "/home/turab/Assignments/401/hw9/hw9.pdf",
+            "/home/turab/Assignments/401/hw9/hw9.tex",
+            "/home/turab/Downloads/lecturech14notes.pie",
+            "/home/turab/Assignments/401/hw8/hw8.tex",
+            "/home/turab/Downloads/lang4.rkt",
+            "/home/turab/Assignments/403/hw3/hw3.tex",
+            "/home/turab/Downloads/lecturech11pt2notes.pie"
         ]
     },
     "windowsState": {
         "openedWindows": [],
         "lastActiveWindow": {
-            "folderPath": "/home/turab/Assignments/401/hw7",
-            "backupPath": "/home/turab/.config/Code/Backups/67e60375c72d692df7cec49a364ba62b",
+            "folderPath": "/home/turab/.AndroidStudio2.3/system/log",
+            "backupPath": "/home/turab/.config/Code/Backups/07f34f467455534eb1a3de749bb4da34",
             "uiState": {
                 "mode": 1,
-                "x": 8,
-                "y": 31,
-                "width": 1350,
-                "height": 729
+                "x": 685,
+                "y": 35,
+                "width": 678,
+                "height": 710
             }
         }
     }

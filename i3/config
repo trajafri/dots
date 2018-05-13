@@ -160,6 +160,8 @@ exec pasystray
 
 # Defining custom key-binds
 
+bindsym --release Print exec "scrot -m '/home/turab/Screenshots/%s_%H%M_%d.%m.%Y_$wx$h.png'"
+bindsym --release Shift+Print exec "scrot -s '/home/turab/Screenshots/%s_%H%M_%d%m%Y_$wx$h.png'"
 bindsym XF86MonBrightnessUp exec xbacklight +10
 bindsym XF86MonBrightnessDown exec xbacklight -10
 bindsym XF86AudioMute exec pactl set-sink-mute 0 toggle
