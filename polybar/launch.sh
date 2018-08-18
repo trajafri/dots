@@ -7,4 +7,16 @@ killall -q polybar
 while pgrep -u $UID -x polybar >/dev/null; do sleep 1; done
 
 # Launch bar1 and bar2
-polybar top & polybar bottom
+for m in $(xrandr --query | grep " connected" | cut -d" " -f1); do
+    if [ $m == 'eDP1' ]
+    then
+        polybar top &
+        polybar bottom &
+    fi
+    if [ $m == 'HDMI1' ]
+    then
+        polybar top-HDMI &
+        polybar bottom-HDMI &
+    fi
+done
+
