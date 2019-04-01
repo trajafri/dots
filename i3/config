@@ -194,6 +194,8 @@ client.urgent               $ac     $ac         $tx     $id        $ac
 client.placeholder          $bg     $bg         $bg     $bg
 
 # Window borders
+# Lol this is the only way I found to remove title bars in tabbed mode
+font pango:DeJaVu Sans Mono 0
 new_window 1pixel
 smart_borders on
 gaps inner 3
