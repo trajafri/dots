@@ -1,27 +1,39 @@
-[Added Associations]
-image/png=feh.desktop;
-text/plain=drracket.desktop;
-text/html=userapp-SeaMonkey-44G2IZ.desktop;
-application/x-extension-htm=userapp-SeaMonkey-44G2IZ.desktop;
-application/x-extension-html=userapp-SeaMonkey-44G2IZ.desktop;
-application/xhtml+xml=userapp-SeaMonkey-44G2IZ.desktop;
-application/x-extension-xhtml=userapp-SeaMonkey-44G2IZ.desktop;
-message/rfc822=userapp-SeaMonkey-44G2IZ.desktop;
-application/x-extension-eml=userapp-SeaMonkey-44G2IZ.desktop;
-x-scheme-handler/http=userapp-SeaMonkey-44G2IZ.desktop;
-x-scheme-handler/https=userapp-SeaMonkey-44G2IZ.desktop;
-x-scheme-handler/mailto=userapp-SeaMonkey-44G2IZ.desktop;
-
 [Default Applications]
-text/html=google-chrome.desktop
-application/x-extension-htm=userapp-SeaMonkey-44G2IZ.desktop
-application/x-extension-html=userapp-SeaMonkey-44G2IZ.desktop
-application/xhtml+xml=userapp-SeaMonkey-44G2IZ.desktop
-application/x-extension-xhtml=userapp-SeaMonkey-44G2IZ.desktop
-message/rfc822=userapp-SeaMonkey-44G2IZ.desktop
-application/x-extension-eml=userapp-SeaMonkey-44G2IZ.desktop
-x-scheme-handler/http=google-chrome.desktop
-x-scheme-handler/https=google-chrome.desktop
-x-scheme-handler/mailto=userapp-SeaMonkey-44G2IZ.desktop
-x-scheme-handler/about=google-chrome.desktop
-x-scheme-handler/unknown=google-chrome.desktop
+x-scheme-handler/http=firefox.desktop
+x-scheme-handler/https=firefox.desktop
+x-scheme-handler/ftp=firefox.desktop
+x-scheme-handler/chrome=firefox.desktop
+text/html=firefox.desktop
+application/x-extension-htm=firefox.desktop
+application/x-extension-html=firefox.desktop
+application/x-extension-shtml=firefox.desktop
+application/xhtml+xml=firefox.desktop
+application/x-extension-xhtml=firefox.desktop
+application/x-extension-xht=firefox.desktop
+image/jpeg=viewnior.desktop;gpicview.desktop;
+image/png=viewnior.desktop;gpicview.desktop;
+text/plain=mousepad.desktop
+x-scheme-handler/mailto=userapp-Thunderbird.desktop
+message/rfc822=userapp-Thunderbird.desktop
+application/pdf=epdfview.desktop
+application/x-bittorrent=deluge.desktop
+
+[Added Associations]
+x-scheme-handler/http=userapp-Pale Moon.desktop;firefox.desktop;
+x-scheme-handler/https=userapp-Pale Moon.desktop;firefox.desktop;
+x-scheme-handler/ftp=userapp-Pale Moon.desktop;firefox.desktop;
+x-scheme-handler/chrome=userapp-Pale Moon.desktop;firefox.desktop;
+text/html=userapp-Pale Moon.desktop;firefox.desktop;
+application/x-extension-htm=userapp-Pale Moon.desktop;firefox.desktop;
+application/x-extension-html=userapp-Pale Moon.desktop;firefox.desktop;
+application/x-extension-shtml=userapp-Pale Moon.desktop;firefox.desktop;
+application/xhtml+xml=userapp-Pale Moon.desktop;firefox.desktop;
+application/x-extension-xhtml=userapp-Pale Moon.desktop;firefox.desktop;
+application/x-extension-xht=userapp-Pale Moon.desktop;firefox.desktop;
+image/jpeg=viewnior.desktop;gpicview.desktop;
+image/png=viewnior.desktop;gpicview.desktop;
+text/plain=mousepad.desktop;
+x-scheme-handler/mailto=userapp-Thunderbird.desktop;
+message/rfc822=userapp-Thunderbird.desktop;
+application/pdf=epdfview.desktop;
+application/x-bittorrent=deluge.desktop;
